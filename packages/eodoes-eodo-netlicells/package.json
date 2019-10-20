@@ -1,0 +1,12 @@
+{
+  "name": "eodoes-eodo-netlicells",
+  "main": "./netlicells.js",
+  "description": "",
+  "version": "0.0.33",
+  "author": "sifbuilder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifbuilder/eodoes.git"
+  }
+}

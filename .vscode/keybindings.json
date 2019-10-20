@@ -1,0 +1,18 @@
+[
+  {
+      "key": "ctrl+alt+win+x",
+      "command": "console.log.wrap.down.prefix",
+      "when": "editorTextFocus"
+  },
+  {
+      "key": "ctrl+alt+win+c",
+      "command": "eslint.executeAutofix"
+  },
+  {
+      "key":  "alt+q",
+      "command": "workbench.action.terminal.sendSequence",
+      "args": {
+        "text": "workspaceFolder: ${workspaceFolder}",
+      }
+    },
+]

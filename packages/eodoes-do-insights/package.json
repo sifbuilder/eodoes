@@ -1,0 +1,11 @@
+{
+  "name": "eodoes-do-insights",
+  "main": "./insights.js",
+  "version": "0.0.3",
+  "author": "sifbuilder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifbuilder/eodoes.git"
+  }
+}

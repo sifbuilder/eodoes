@@ -1,0 +1,9 @@
+
+POST https://tc2b5r1s50.execute-api.us-east-1.amazonaws.com/dev/collect
+
+{
+  "anonymousId" : "3", 
+  "url" : "url3", 
+  "eventType" : "type3"   
+}
+

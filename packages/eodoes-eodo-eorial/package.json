@@ -1,0 +1,12 @@
+{
+  "name": "eodoes-eodo-eorial",
+  "main": "./eorial.js",
+  "description": "",
+  "version": "0.0.30",
+  "author": "sifbuilder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifbuilder/eodoes.git"
+  }
+}

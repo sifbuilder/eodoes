@@ -1,0 +1,19 @@
+{
+"git.enabled": true,
+"git.path": "%rootDir%\\p\\PortableGit\\mingw64\\bin\\git.exe",
+"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+"terminal.integrated.shellArgs.windows": [
+    "/k",
+    "%rootDir%\\s\\w.bat"
+],
+"editor.detectIndentation": true,
+"editor.tabSize": 2,
+"editor.insertSpaces": true,
+"eslint.enable": true,
+"eslint.run": "onType",
+"eslint.options": { "configFile": ".eslintrc.js" },
+"eslint.nodePath": "%rootDir%\\e\\node.exe",
+"eslint.alwaysShowStatus": true,
+"eslint.autoFixOnSave": false,
+"eslint.validate": [ "javascript", { "language": "html", "autoFix": true } ],
+}

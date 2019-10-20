@@ -1,0 +1,12 @@
+{
+  "name": "eodoes-eodo-shopify",
+  "main": "./shopify.js",
+  "description": "",
+  "version": "0.0.5",
+  "author": "sifbuilder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifbuilder/eodoes.git"
+  }
+}
