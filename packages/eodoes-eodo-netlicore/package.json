@@ -2,7 +2,7 @@
   "name": "eodoes-eodo-netlicore",
   "main": "./netlicore.js",
   "description": "",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {

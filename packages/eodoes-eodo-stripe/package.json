@@ -2,7 +2,7 @@
   "name": "eodoes-eodo-stripe",
   "main": "./stripe.js",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {

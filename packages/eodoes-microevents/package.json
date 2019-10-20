@@ -2,7 +2,7 @@
   "name": "eodoes-microevents",
   "main": "src/index.js",
   "description": "",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "dependencies": {
     "chokidar": "^3.0.2",
     "execa": "^1.0.0",

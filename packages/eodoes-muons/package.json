@@ -2,7 +2,7 @@
   "name": "eodoes-muons",
   "description": "",
   "main": "src/index.js",
-  "version": "0.0.44",
+  "version": "0.0.45",
   "dependencies": {
     "chokidar": "^3.0.2",
     "execa": "^1.0.0",

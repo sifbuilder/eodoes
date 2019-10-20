@@ -2,7 +2,7 @@
   "name": "eodoes-eodo-aws",
   "main": "./aws.js",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {

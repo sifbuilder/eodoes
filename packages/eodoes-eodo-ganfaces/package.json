@@ -2,7 +2,7 @@
   "name": "eodoes-eodo-ganfaces",
   "main": "./ganfaces.js",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {

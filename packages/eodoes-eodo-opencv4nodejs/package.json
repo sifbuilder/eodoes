@@ -1,7 +1,7 @@
 {
   "name": "eodoes-eodo-opencv4nodejs",
   "main": "./opencv4nodejs.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {
