@@ -1,7 +1,7 @@
 {
   "name": "eodoes-do-insights",
   "main": "./insights.js",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {
