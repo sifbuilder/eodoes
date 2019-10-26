@@ -38,6 +38,8 @@
 
       resfs: 
         https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+        https://github.com/hardikbansal/CycleGAN
+        https://hardikbansal.github.io/CycleGANBlog/
 
         jupyter nbconvert in.ipynb --to notebook --ClearOutputPreprocessor.enabled=True --stdout > out.ipynb
         jupyter nbconvert --to script in.ipynb
