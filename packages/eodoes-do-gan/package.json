@@ -1,7 +1,7 @@
 {
-  "name": "eodoes-do-junyanz",
-  "main": "./junyanz.js",
-  "version": "0.0.12",
+  "name": "eodoes-do-gan",
+  "main": "./gan.js",
+  "version": "0.0.1",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {
