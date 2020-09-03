@@ -34,7 +34,7 @@
       > node ~/e/c/eodoes/scripts/run.js eodoes-do-gcp  ~/e/c/eodoes/eosites eoparse --doc --gcp gcp501
       > ~/c/e/c/eosites/eodoes-eo-gcp/info.sh
 
-      resfs: 
+      refs: 
       
         https://console.cloud.google.com/compute/instances?project=dulcet-aileron-253711&instancessize=50
         https://www.pugetsystems.com/labs/hpc/How-to-Install-TensorFlow-with-GPU-Support-on-Windows-10-Without-Installing-CUDA-UPDATED-1419/
@@ -42,6 +42,7 @@
         https://cloud.google.com/compute/docs/gpus/add-gpus
         https://docs.nvidia.com/deploy/cuda-compatibility/index.html#binary-compatibility__table-toolkit-driver
 
+        Cloud SDK installer https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
         https://cloud.google.com/sdk/gcloud/reference/
         https://cloud.google.com/blog/products/gcp/filtering-and-formatting-fun-with
         https://cloud.google.com/sdk/gcloud/reference/compute/instances/start
@@ -56,6 +57,12 @@
         https://stackoverflow.com/questions/25742867/why-is-this-gcloud-compute-copy-files-producing-an-error-message
 
         https://kb.netapp.com/app/answers/answer_view/a_id/1031259/~/how-to-extract-a-ssl-pem-private-key-from-a-.json-formatted-google-service        
+
+        install gcloud on wsl :  https://cloud.google.com/sdk/docs/downloads-versioned-archives
+          tar xvzf google-cloud-sdk-285.0.1-linux-x86_64.tar.gz
+          ./google-cloud-sdk/install.sh
+          source ~/.bashrc
+          gcloud --version
  `,
 
       eotags: {
@@ -89,7 +96,7 @@
         diskName: 'eo000511disk',
         diskSize: '200GB',
         machineType: 'n1-standard-8',
-        gpus: 1,
+        gpus: 1,                         // GPUs
       },
 
     }
@@ -423,6 +430,7 @@ includedPermissions:
         //    080 iconfig.sh - configure compute vm
         //
         //
+        // https://packages.ubuntu.com/
         __eofiles_iconfig_080: [{
           resolve: `iconfig.sh`,
           options: {

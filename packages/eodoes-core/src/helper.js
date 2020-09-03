@@ -30,7 +30,8 @@ let helpmsg = `
   */
 async function eohelp (data, __) {
   // eslint-disable-next-line no-console
-  console.log(`    eodoes
+  console.log(`    
+  helper.eodoes:
     ${__.helpmsg}
   `)
 }

@@ -19,16 +19,16 @@ eodo creates the package.json and the file system that may include starter and p
 
 ## How to use
 
-eodo is available via [github](https://www.github.com/) and may be used by
+eodoes is available via [github](https://www.github.com/) and may be used by
 `git clone git@github.com:sifbuilder/eodoes.git`
-`cd eodo`
-`npm install`
-`node eodo` to list in-module eodoes
+`cd eodoes`
+`yarn`
+`node ./scripts/run`
 
 eodo is available via [npm](https://www.npmjs.com/) and may be installed globally by running 
-`npm install -g eodo` to use it locally.
-`eodo` for a list of in-module eodoes
-`eodo <eodir> <eodoes>` for full help on the specific eodoes
+`npm install -g eodoes` to use it locally.
+`eodoes` for a list of in-module eodoes
+`eodoes <eodo> <eodir> ` for full help on the specific eodoes
 
 #### Additional configuration
 
