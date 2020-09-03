@@ -2,7 +2,7 @@
   "name": "eodoes-eodo-eofaces",
   "main": "./eofaces.js",
   "description": "",
-  "version": "0.0.38",
+  "version": "0.0.39",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {

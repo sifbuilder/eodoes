@@ -2,7 +2,7 @@
   "name": "eodoes-core",
   "main": "src/index.js",
   "description": "",
-  "version": "0.0.36",
+  "version": "0.0.37",
   "dependencies": {
     "chokidar": "^3.0.2",
     "execa": "^1.0.0",

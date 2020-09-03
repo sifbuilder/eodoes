@@ -2,7 +2,7 @@
   "name": "eodoes-do-gcp",
   "main": "./gcp.js",
   "description": "",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "sifbuilder",
   "license": "MIT",
   "repository": {

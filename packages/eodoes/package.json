@@ -10,10 +10,10 @@
   "name": "eodoes",
   "description": "quantize info-radiations",
   "main": "src/cli.js",
-  "version": "0.0.57",
+  "version": "0.0.58",
   "dependencies": {
     "chokidar": "^3.0.2",
-    "eodoes-core": "^0.0.36",
+    "eodoes-core": "^0.0.37",
     "eodoes-eocode": "^0.0.26",
     "eodoes-eodo-eocore": "^0.0.32",
     "eodoes-eodo-eodoer": "^0.0.31",
