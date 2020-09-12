@@ -18,7 +18,7 @@
     let state = {
 
       helpmsg: ` 
-      will create eonart site
+      will create eographs site
   
       usage:
         > cls&&node ./scripts/run eodoes-eodo-eocore ../eosites eoparse --doc --view
@@ -68,7 +68,7 @@
 
         __eodoc_000: `
           ╭─────────────────────────────────────────────╮
-          │       eonart                                │
+          │       eographs                              │
           ╰─────────────────────────────────────────────╯`,
         //
         // 999 END

@@ -1,0 +1,12 @@
+{
+  "name": "eodoes-eodo-eographs",
+  "main": "./eographs.js",
+  "description": "",
+  "version": "0.0.32",
+  "author": "sifbuilder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifbuilder/eodoes.git"
+  }
+}
