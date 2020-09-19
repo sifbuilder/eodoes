@@ -1,0 +1,12 @@
+{
+  "name": "eodoes-eodo-pix2pix",
+  "main": "./pix2pix.js",
+  "description": "",
+  "version": "0.0.33",
+  "author": "sifbuilder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifbuilder/eodoes.git"
+  }
+}
