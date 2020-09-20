@@ -21,8 +21,8 @@
       will create eonart site
   
       usage:
-        > cls&&node ./scripts/run eodoes-eodo-eocore ../eosites eoparse --doc --view
-        > node ./scripts/run eodoes-eodo-eocore ../eosites --author sifbuilder --pwdgit ______ eoclear uncode eoparse eogit eohub netify --doc --view --debug
+        > cls&&node ./scripts/run eodoes-eodo-eonart ../eosites eoparse --doc --view
+        > node ./scripts/run eodoes-eodo-eonart ../eosites --author sifbuilder --pwdgit ______ eoclear uncode eoparse eogit eohub netify --doc --view --debug
   `,
 
       eotags: {

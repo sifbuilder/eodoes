@@ -25,7 +25,7 @@
       },
 
       eventsopts: {
-        delay: 4969,
+        delay:   4969,
       },
     }
 

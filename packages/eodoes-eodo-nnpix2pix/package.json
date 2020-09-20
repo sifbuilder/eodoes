@@ -1,6 +1,6 @@
 {
-  "name": "eodoes-eodo-pix2pix",
-  "main": "./pix2pix.js",
+  "name": "eodoes-eodo-nnpix2pix",
+  "main": "./nnpix2pix.js",
   "description": "",
   "version": "0.0.34",
   "author": "sifbuilder",
